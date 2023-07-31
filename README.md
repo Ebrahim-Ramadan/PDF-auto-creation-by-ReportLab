@@ -3,8 +3,8 @@ a Python script that uses the ReportLab library to create a PDF document contain
 """
 Script: create_pdf_with_images.py
 Description: Generate a landscape-oriented PDF document containing images from a specified directory.
-Author: [Your Name]
-GitHub Repo: [GitHub Repo URL]
+Author: [Ebrahim Ramadan]
+GitHub Repo: [[GitHub Repo URL](https://github.com/Ebrahim-Ramadan)]
 
 Libraries:
 - reportlab: A library for creating PDFs and graphics.
