@@ -6,7 +6,6 @@ Description: Generate a landscape-oriented PDF document containing images from a
 Author: [Ebrahim Ramadan]
 GitHub: [[GitHub](https://github.com/Ebrahim-Ramadan)]
 <br>
-<br>
 
 
 https://github.com/Ebrahim-Ramadan/ReportLab-PDFauto-creation-insertion/assets/65041082/82ba6370-0014-4d79-91d9-f13496ed1c2c
